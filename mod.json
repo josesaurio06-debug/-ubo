@@ -1,17 +1,12 @@
 {
-	"geode": "$GEODE_VERSION",
-	"gd": {
-		"win": "2.2081",
-		"android": "2.2081",
-		"mac": "2.2081",
-		"ios": "2.2081"
-	},
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
-	"description": "$MOD_DESCRIPTION",
-	"dependencies": {
-		"geode.node-ids": ">=v1.23.3"
-	}
+  "geode": "6.0.0-alpha.1",
+  "gd": {
+    "android": "2.2091"
+  },
+  "version": "v1.0.0",
+  "id": "tuusuario.songswapper",
+  "name": "Song Swapper",
+  "developer": "josesaurio06-debug",
+  "description": "Cambia una cancion por otra usando un archivo de audio.",
+  "tags": ["music"]
 }
